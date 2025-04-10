@@ -34,6 +34,11 @@ body {
     width: 250px;
     transition: transform 0.3s ease;
   }
+
+  .movie-card-link {
+    text-decoration: none;
+    color: white;
+  }
   
   .movie-card:hover {
     transform: scale(1.05);
